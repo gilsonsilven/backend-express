@@ -1,0 +1,19 @@
+{
+  "name": "backend-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonsilven/backend-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsonsilven/backend-express/issues"
+  },
+  "homepage": "https://github.com/gilsonsilven/backend-express#readme"
+}
